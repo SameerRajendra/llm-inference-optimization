@@ -1,0 +1,9 @@
+﻿# Core Deep Learning Framework (Requires CUDA 12.1+ toolkit compatibility for Hopper/SM90a)
+torch>=2.2.0
+
+# Build and Compilation Utilities
+setuptools>=68.0.0
+wheel
+
+# Hardware Benchmarking & Diagnostics (Optional but helpful for extended profiling)
+numpy>=1.24.0
