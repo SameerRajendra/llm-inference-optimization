@@ -1,0 +1,18 @@
+﻿# PyTorch / Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# C++/CUDA Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.out
+
+# Profiling outputs
+*.nsys-rep
+*.sqlite
